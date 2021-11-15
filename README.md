@@ -1,4 +1,4 @@
-### Hi there 👋
+### 2021. 8. ~ 2022. 1. JAVA 훈련 ing
 
 <!--
 **aszzoon/aszzoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
