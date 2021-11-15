@@ -1,6 +1,6 @@
-### 
-2020.10. ~ 2020.12. Github 웹퍼블리셔
-2021. 8. ~ 2022. 1. JAVA 
+### 안녕하세요 안성준 입니다
+'20.10. ~ '20.12. Html5, Css3
+<br />'21. 8. ~ '22. 1. Java
 
 <!--
 **aszzoon/aszzoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
