@@ -1,8 +1,6 @@
 ### 안녕하세요 안성준 입니다
-'20.10. ~ '20.12. Html5, Css3
-<br />'21. 8. ~ '22. 1. Java
+<br />'21. 8. ~ '22. 1. Java 
 
-<!--
 **aszzoon/aszzoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
