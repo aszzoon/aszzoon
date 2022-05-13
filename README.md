@@ -1,2 +1,2 @@
-### flexible developer
-<br /> 코딩을 잘하는 사람 = 로직을 잘 짜는 사람
+### 안녕하세요 안성준 입니다.
+<br />![image](https://user-images.githubusercontent.com/84303387/168291639-547164d1-00e6-411b-b585-4273a6896f9b.png)
