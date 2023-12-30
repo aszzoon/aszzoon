@@ -31,10 +31,4 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aszzoon&layout=compact&theme=dracula" alt="Top langs">
 </p>
-<p align="center">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aszzoon&show_icons=true&theme=onedark" alt="aszzoon GitHub stats">
-</p>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faszzoon%2Fhit-counter&count_bg=%23CE5749&title_bg=%233B3A3A&icon=&icon_color=%23CE5749&title=Hits&edge_flat=false"></a>
 </p>
