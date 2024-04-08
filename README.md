@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&message=Spring%20Boot&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&color=7F52FF&logo=Kotlin&logoColor=white"/>
   <br>
   
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)"/>
