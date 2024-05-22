@@ -1,4 +1,6 @@
-<h3 align="center">프로그래머는 프로그램을 만들어야죠 🛠</h3>
+<h3 align="center"> 안녕하세요 안성준 입니다. 🛠</h3>
+
+[![](https://img.shields.io/badge/-Blog-blue?style=flat-square)]([https://eunjitech.notion.site/Develope-Note-1da6c5d2ea6148848a1a2580eaafacdf](https://ahnseongjoon.notion.site/Develop-log-c8ff5882223448b0b865d0ca39624579?pvs=74))
 
 <h4 align="center">Tech Stacks 💻</h4>
 <p align="center">
