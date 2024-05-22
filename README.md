@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-Resume-orange?style=flat-square)](https://ahnseongjoon.notion.site/73e5281564ba4c169c5a9f0441397cc9?pvs=74)[![](https://img.shields.io/badge/-Blog-blue?style=flat-square)](https://ahnseongjoon.notion.site/Develop-log-c8ff5882223448b0b865d0ca39624579?pvs=74)
+[![](https://img.shields.io/badge/-Resume-orange?style=flat-square)](https://ahnseongjoon.notion.site/73e5281564ba4c169c5a9f0441397cc9?pvs=74)[![](https://img.shields.io/badge/-Blog-white?style=flat-square)](https://ahnseongjoon.notion.site/Develop-log-c8ff5882223448b0b865d0ca39624579?pvs=74)
 
 <h4 align="center">Tech Stacks 💻</h4>
 <p align="center">
