@@ -1,5 +1,5 @@
 <h3 align="center"> 안녕하세요 안성준 입니다. 🛠</h3>
-
+<p align="center">
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aszzoon@gmail.com)](mailto:aszzoon@gmail.com) [![](https://img.shields.io/badge/-Blog-blue?style=flat-square)](https://ahnseongjoon.notion.site/Develop-log-c8ff5882223448b0b865d0ca39624579?pvs=74)
 
 <h4 align="center">Tech Stacks 💻</h4>
